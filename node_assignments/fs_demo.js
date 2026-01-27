@@ -1,4 +1,4 @@
-const fs = require("fs");
+// const fs = require("fs");
 
 // fs.writeFile("node_assignments/text1.txt","Hello",(err)=>{
 //     if (err) {
